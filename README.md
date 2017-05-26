@@ -1,2 +1,2 @@
 # GitTest
-Demo 1
+A demo repo practicing Git
